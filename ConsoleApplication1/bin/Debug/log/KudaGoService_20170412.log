@@ -1,0 +1,34 @@
+2017-04-12 22:50:47.3016 INFO 
+2017-04-12 22:50:47.3506 INFO ------------------Запуск приложения---------------------
+2017-04-12 22:50:47.6556 INFO Подготовка БД
+2017-04-12 22:56:07.2376 INFO 
+2017-04-12 22:56:07.2696 INFO ------------------Запуск приложения---------------------
+2017-04-12 22:56:07.3246 INFO Подготовка БД
+2017-04-12 22:56:33.0226 ERROR System.NotSupportedException: Model compatibility cannot be checked because the database does not contain model metadata. Model compatibility can only be checked for databases created using Code First or Code First Migrations.
+   в System.Data.Entity.Internal.ModelCompatibilityChecker.CompatibleWithModel(InternalContext internalContext, ModelHashCalculator modelHashCalculator, Boolean throwIfNoMetadata, DatabaseExistenceState existenceState)
+   в System.Data.Entity.Internal.InternalContext.CompatibleWithModel(Boolean throwIfNoMetadata, DatabaseExistenceState existenceState)
+   в System.Data.Entity.DropCreateDatabaseIfModelChanges`1.InitializeDatabase(TContext context)
+   в System.Data.Entity.Internal.InternalContext.<>c__DisplayClassf`1.<CreateInitializationAction>b__e()
+   в System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   в System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   в System.Data.Entity.Database.Initialize(Boolean force)
+   в ConsoleApplication1.Program.SyncData() в C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\Program.cs:строка 137
+   в ConsoleApplication1.Program.ProcessingConsole(String[] args) в C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\Program.cs:строка 120
+   в ConsoleApplication1.Program.Main(String[] args) в C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\Program.cs:строка 36
+EXCEPTION: System.NotSupportedException: Model compatibility cannot be checked because the database does not contain model metadata. Model compatibility can only be checked for databases created using Code First or Code First Migrations.
+   в System.Data.Entity.Internal.ModelCompatibilityChecker.CompatibleWithModel(InternalContext internalContext, ModelHashCalculator modelHashCalculator, Boolean throwIfNoMetadata, DatabaseExistenceState existenceState)
+   в System.Data.Entity.Internal.InternalContext.CompatibleWithModel(Boolean throwIfNoMetadata, DatabaseExistenceState existenceState)
+   в System.Data.Entity.DropCreateDatabaseIfModelChanges`1.InitializeDatabase(TContext context)
+   в System.Data.Entity.Internal.InternalContext.<>c__DisplayClassf`1.<CreateInitializationAction>b__e()
+   в System.Data.Entity.Internal.InternalContext.PerformInitializationAction(Action action)
+   в System.Data.Entity.Internal.InternalContext.PerformDatabaseInitialization()
+   в System.Data.Entity.Database.Initialize(Boolean force)
+   в ConsoleApplication1.Program.SyncData() в C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\Program.cs:строка 137
+   в ConsoleApplication1.Program.ProcessingConsole(String[] args) в C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\Program.cs:строка 120
+   в ConsoleApplication1.Program.Main(String[] args) в C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\Program.cs:строка 36
+2017-04-12 22:56:33.0376 INFO Закрытие логгера
+2017-04-12 22:56:38.0576 INFO 
+2017-04-12 22:56:38.0836 INFO ------------------Запуск приложения---------------------
+2017-04-12 22:56:38.1326 INFO Подготовка БД
+2017-04-12 22:56:54.5846 INFO Подготовка БД завершена
+2017-04-12 22:56:54.5846 INFO Начало синхронизации

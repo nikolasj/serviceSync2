@@ -1,0 +1,79 @@
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Николай\Source\Repos2\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\1 семестр\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Диплом\Site2\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Диплом\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\Диплом\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\Диплом\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.dll
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.xml
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.Extended.dll
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.Extended.xml
+H:\Projects\лабы\Николай\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.Extended.dll
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.dll
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.Extended.xml
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\NLog.xml
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\KudaGo3_\KudaGo\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
